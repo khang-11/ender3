@@ -1,0 +1,15 @@
+{
+    "compatible_printers": [
+        "Creality Creality Ender-3 V2 0.4 nozzle"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "Creality PLA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @System",
+    "name": "Creality PLA",
+    "version": "2.3.2.60"
+}

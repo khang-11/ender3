@@ -1,0 +1,27 @@
+{
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "eSun PETG"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
+    ],
+    "inherits": "eSUN PETG @System",
+    "name": "eSun PETG",
+    "version": "2.3.2.60"
+}
